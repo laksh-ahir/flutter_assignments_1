@@ -1,0 +1,5 @@
+30. Can we pass an object of a subclass to a method expecting an object of the superclass? Are static members inherited to subclasses?
+Ans. : 
+
+>> Yes, we can pass an object of a subclass to a method expecting an object of the superclass, this is done through polymorphism.
+   No, subclasses don’t inherit static members of a superclass.

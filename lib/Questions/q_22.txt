@@ -1,0 +1,10 @@
+22. Which inheritance is not supported by Dart? Why? What is the advantage of inheritance?
+Ans. :
+
+>> Dart supports single inheritance, Multiple inheritance is not supported in Dart. 
+>> Because Multiple Inheritance helps avoid the complexities and ambiguities associated, promoting a simpler and more maintainable 
+   code structure.
+
+>> The advantage of inheritance lies in code reuse. By inheriting attributes and methods from a superclass, 
+   a subclass can leverage existing functionality, reducing redundancy and promoting a modular and efficient codebase. 
+   It also facilitates the creation of a class hierarchy, allowing for a more organized and intuitive structure in object-oriented programming.

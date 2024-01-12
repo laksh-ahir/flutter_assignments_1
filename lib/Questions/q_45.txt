@@ -1,0 +1,9 @@
+45. Difference between object oriented and object based language. 
+Ans. : 
+
+>> An object-oriented language fully supports all principles of object-oriented programming, including encapsulation, inheritance, 
+   polymorphism, and abstraction. 
+>> In contrast, an object-based language supports objects and classes but may lack some advanced features, 
+   often limiting or omitting support for inheritance or polymorphism. 
+>> Examples of object-oriented languages include Java and C++
+>> JavaScript is considered an object-based language.

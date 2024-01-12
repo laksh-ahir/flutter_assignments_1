@@ -1,0 +1,8 @@
+24. Difference between inheritance and polymorphism.
+Ans. :
+
+>> Inheritance vs. Polymorphism:
+- Inheritance: Defines a relationship between classes where one class (subclass) inherits properties and behaviors from 
+  another class (superclass).
+- Polymorphism: Allows objects of different classes to be treated as objects of a common base class. 
+  It enables a single interface to represent various types, supporting flexibility in code design.

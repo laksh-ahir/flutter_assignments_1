@@ -1,0 +1,5 @@
+41. What happens when a class implements two interfaces and both declare a field (variable) with the same name?
+Ans. : 
+
+>> When a class implements two interfaces and both declare a field (variable) with the same name, 
+   then you must set the value of that field (variable) in the class that implements those interfaces.

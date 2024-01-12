@@ -1,0 +1,5 @@
+26. Can we overload static methods in Dart?
+Ans. :
+
+>> No,We can not overload static methods in Dart, whether for static or instance methods. 
+   Method overloading typically involves defining multiple methods in the same class with the same name but different parameters. Dart achieves similar functionality using optional and named parameters instead of method overloading.

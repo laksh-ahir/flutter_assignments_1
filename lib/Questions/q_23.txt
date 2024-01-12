@@ -1,0 +1,11 @@
+23. Difference between inheritance and encapsulation. Difference between inheritance and abstraction.
+Ans. :
+
+>> Inheritance vs. Encapsulation:
+- Inheritance : Deals with the relationship between classes, allowing a subclass to inherit properties and behaviors from a superclass.
+- Encapsulation: Involves bundling data and methods within a class, hiding internal details and exposing only what's necessary.
+
+>> Inheritance vs. Abstraction:
+- Inheritance: Focuses on class relationships, enabling code reuse through subclassing from a superclass.
+- Abstraction: Simplifies complex systems by modeling essential features, achieved through abstract classes and interfaces, 
+  hiding unnecessary details.

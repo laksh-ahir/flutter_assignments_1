@@ -1,0 +1,10 @@
+37. What is the order of extends and implements keyword on Dart class declaration? 
+Ans. : 
+
+>> The order of extends and implements keyword on Dart class declaration is as follows : 
+
+class ClassName extends Superclass with Mixin1, Mixin2 implements Interface1, Interface2 {
+  // Class body
+}
+
+>> At first, extends keyword, after that mixin keyword if you want to use and after that implements keyword

@@ -1,0 +1,5 @@
+32. How do you restrict a member of a class from inheriting by its subclasses? 
+Ans. : 
+
+>> You can restrict a member of a class from inheriting by its subclasses by marking that member as private. 
+   You can make a member private by prefixing its name with an underscore _

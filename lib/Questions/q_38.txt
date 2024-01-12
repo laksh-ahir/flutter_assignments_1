@@ -1,0 +1,4 @@
+38. How do you prevent overriding a Dart method without using the final modifier?
+Ans. : 
+
+>> If you want to prevent a Dart method from being overridden in a subclass, you can use the @override annotation in the superclass.

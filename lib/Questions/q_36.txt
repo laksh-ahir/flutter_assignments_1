@@ -1,0 +1,5 @@
+36. When to overload a method in Dart and when to override it?
+Ans. : 
+
+>> Use method overloading when you want to provide multiple versions of a method with different parameters within the same class.
+>> Use method overriding when you want a subclass to provide a specific implementation for a method declared in its superclass.

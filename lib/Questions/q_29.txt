@@ -1,0 +1,5 @@
+29. What will happen if a class implements two interfaces and they both have a method with the same name and signature?
+Ans. : 
+
+>> If a class implements two interfaces and they both have a method with the same name and signature, 
+   then we need to provide a single implementation for that method.

@@ -1,0 +1,4 @@
+43. Can a subclass static method hide a superclass instance method?
+Ans. : 
+
+>> A subclass static method can not hide a superclass instance method.

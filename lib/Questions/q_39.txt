@@ -1,0 +1,19 @@
+39. What are the rules of method overriding in Dart?
+Ans. : 
+
+>> In short, here are the rules for method overriding in Dart:
+
+- Same Signature:
+   The overriding method in the subclass must have the same name, return type, and parameter types as the method in the superclass.
+- Use @override Annotation:
+   It's recommended to use the @override annotation to signal the intent of overriding and catch potential errors.
+- Covariant Parameter Types:
+   If the superclass method has covariant parameter types, the subclass method should also have covariant parameter types.
+- Covariant Return Types (Dart 2.12 and later):
+   If the superclass method has a covariant return type, the subclass method can have a more specific return type.
+- Visibility:
+   The overriding method cannot have reduced visibility compared to the overridden method in the superclass.
+- Superclass Invocation (super):
+   The overriding method can invoke the overridden method from the superclass using the ‘super’ keyword.
+- Calling Superclass Constructors:
+   When a subclass overrides a constructor, it can call the constructor of the superclass using ‘super()’

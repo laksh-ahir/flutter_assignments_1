@@ -1,0 +1,4 @@
+44. Can a superclass access subclass member? 
+Ans. : 
+
+>> No, a superclass can not access subclass members.

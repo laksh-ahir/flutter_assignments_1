@@ -1,0 +1,29 @@
+33. How do you implement multiple inheritance in Dart?
+Ans. : 
+
+>> If you want to implement multiple inheritance, you need to create a class with mixin name first, and then implement it using ‘with’ keyword.
+
+# Example :
+
+mixin Flying
+	{
+void fly()
+{
+		print(“Flying”);
+	}
+}
+class Animal 
+{
+	void makeSound()
+	{
+		print(“Animal makes a sound”);
+	}
+}
+class Bird extends Animal with Flying {}
+
+void main () 
+{
+	var bird = Bird();
+	bird.makeSound();
+	bird.fly();
+}

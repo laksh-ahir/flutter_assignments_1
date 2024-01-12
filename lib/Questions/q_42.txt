@@ -1,0 +1,4 @@
+42. Can a subclass instance method override a superclass static method? 
+Ans. : 
+
+>> No, a subclass instance method can not override a superclass static method. It results in a compilation error.

@@ -1,0 +1,4 @@
+28. Can an interface extend more than one interface in Dart?
+Ans. : 
+
+>> Yes, an Interface extends more than one interface in Dart using comma seperator.

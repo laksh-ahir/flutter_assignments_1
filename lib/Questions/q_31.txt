@@ -1,0 +1,8 @@
+31. What happens if the parent and the child class have a field with the same identifier? Are constructors and initializers 
+    also inherited to subclasses? 
+Ans. : 
+
+>> If the parent and the child class have a field with the same identifier, the child class's field will hide the parent class's field. 
+   This behavior is known as field hiding or shadowing.
+>> However, subclasses implicitly call the superclass's no-argument constructor if it doesn't define its own constructor. 
+>> If the superclass has parameters in its constructor, the subclass must call the superclass constructor explicitly using the ‘super’ keyword.
